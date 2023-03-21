@@ -1,0 +1,40 @@
+body{
+    background-image: url('bg1.jpg');
+    background-repeat: no-repeat;
+    height: 100%; 
+    background-position: center;
+    background-size: cover;
+
+}
+div.one{
+    text-align: center;
+    width: 400px;
+    border: 2px solid white;
+    padding: 50px;
+    margin: 20px;
+    align-items: center;
+    margin-top: 290px;
+    margin-left: 34%;
+    
+}
+b.first{
+    color:white;
+    font-size: 17pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#second{
+    color: white;
+    font-size: 14pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+input{
+    width: 250px;
+    height: 25px;
+}
+button{
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
